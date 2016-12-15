@@ -7,16 +7,19 @@ Esta aplicacion es un ejemplo basico de vistas en Android, llevado a cabo dentro
 Requerimientos
 ------------
 
-  * Android Studio 2.2.2
-  * Gradle 2.2.2
+  * Android Studio 2.2.3
+  * Gradle 2.2.3
   * minSdkVersion 15
 
+Nota
+-----
+La barra verde de la derecha no se nota debido a las dimensiones con las que se crearon en el proyecto original pero en el código sigue ahí.
 
 Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/Gusn8/StudyJam_II_Views_II.git
+>     $ git clone https://github.com/tr4ppy/StudyJam_Tarea_3.git
 
 Dentro de Android Studio:
 
@@ -28,10 +31,17 @@ Dentro de Android Studio:
 Captura
 ---------
 
-<div align="center">
+<div>
     <center>
-        <img src="/img/screenshot.jpg" width="300">
+        <table border="0">
+            <tr>
+                <td>
+                    <img src="/img/screenshot.png" width="200">
+                </td>
+                <td>
+                    <img src="/img/corrida.gif" width="200">
+                </td>
+            </tr>
+        </table>
     </center>
 </div>
-<br><br>
-<a href="http://www.miramicodigo.com" target="_blank">@Gusn8</a>
